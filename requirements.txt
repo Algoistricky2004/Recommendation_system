@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+groq
+rank-bm25
+pydantic
+httpx
+pytest
+pytest-asyncio
+requests
