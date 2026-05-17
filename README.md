@@ -1,7 +1,7 @@
 # SHL Assessment Recommender
 
 A conversational AI agent that recommends SHL Individual Test Solutions through multi-turn dialogue.  
-Built for the **SHL Labs AI Intern Take-Home Assignment**.
+Built for the **SHL Labs Assignment**.
 
 **Live API:** https://shl-recommendation-system-catalog.onrender.com  
 **Interactive Docs:** https://shl-recommendation-system-catalog.onrender.com/docs
